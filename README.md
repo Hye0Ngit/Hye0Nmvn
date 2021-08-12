@@ -19,7 +19,7 @@ repositories {
 }
 ```
 
-'''Dependency Setting for YMetalLib'''
+**Dependency Setting for YMetalLib**
 
 ```
 dependencies {
@@ -29,7 +29,7 @@ dependencies {
 
 ``gradle.properties``
 
-'''Properties Setting for YMetalLib'''
+**Properties Setting for YMetalLib**
 
 ```
 ymetallib_version=(type your wanted version!)
