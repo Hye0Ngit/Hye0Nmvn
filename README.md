@@ -18,6 +18,9 @@ repositories {
 	}
 }
 ```
+
+'''Dependency Setting for YMetalLib'''
+
 ```
 dependencies {
 	modImplementation "kr.kro.yewonmods:yewonmods-ymetallib:${project.ymetallib_version}"
@@ -25,6 +28,9 @@ dependencies {
 ```
 
 ``gradle.properties``
+
+'''Properties Setting for YMetalLib'''
+
 ```
 ymetallib_version=(type your wanted version!)
 ```
