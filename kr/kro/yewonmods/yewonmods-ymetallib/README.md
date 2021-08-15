@@ -1,4 +1,6 @@
 # Index of /kr/kro/yewonmods/yewonmods-ymetallib/
+[1.0.0](https://www.yewonmvn.kro.kr/kr/kro/yewonmods/yewonmods-ymetallib/1.0.0)
+
 [1.1.0](https://www.yewonmvn.kro.kr/kr/kro/yewonmods/yewonmods-ymetallib/1.1.0)
 
 [1.2.0](https://www.yewonmvn.kro.kr/kr/kro/yewonmods/yewonmods-ymetallib/1.2.0)
