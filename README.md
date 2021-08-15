@@ -4,7 +4,7 @@ Maven Server
 Maven/Gradle compat
 
 ## Directory Listing
-[here](http://yewonmvn.kro.kr/DIR.md)
+[here](https://www.yewonmvn.kro.kr/DIR)
 
 ## How to use (Gradle)
 
@@ -13,8 +13,7 @@ Maven/Gradle compat
 repositories {
 	maven {
 		name 'YewonMVN'
-		url 'http://yewonmvn.kro.kr'
-		allowInsecureProtocol = true
+		url 'https://www.yewonmvn.kro.kr'
 		metadataSources {
 			artifact()
 		}
