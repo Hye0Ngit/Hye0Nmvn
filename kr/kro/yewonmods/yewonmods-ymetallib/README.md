@@ -18,3 +18,5 @@
 [1.3.4-ex](https://www.yewonmvn.kro.kr/kr/kro/yewonmods/yewonmods-ymetallib/1.3.4-ex)
 
 [1.3.5](https://www.yewonmvn.kro.kr/kr/kro/yewonmods/yewonmods-ymetallib/1.3.5)
+
+[1.3.6](https://www.yewonmvn.kro.kr/kr/kro/yewonmods/yewonmods-ymetallib/1.3.6)
