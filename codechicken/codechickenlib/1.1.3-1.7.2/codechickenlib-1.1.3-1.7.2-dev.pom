@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>codechicken</groupId>
+  <artifactId>codechickenlib</artifactId>
+  <version>1.1.3-1.7.2</version>
+  <packaging>pom</packaging>
+  <name>CodeChickenLib MPed</name>
+  <licenses>
+    <license>
+      <name>LGPL-v2.1</name>
+      <url>https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <scm>
+    <url>https://github.com/Hye0Ngit-mp/CodeChickenLibMped.git</url>
+  </scm>
+  <issueManagement>
+    <system>github</system>
+    <url>https://github.com/Hye0Ngit-mp/CodeChickenLibMped/issues</url>
+  </issueManagement>
+  <dependencies>
+  </dependencies>
+</project>
